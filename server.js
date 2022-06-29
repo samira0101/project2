@@ -1,4 +1,4 @@
-// Server for MVC Tech Blog
+// Server for My Thoughts
 
 // Dependencies
 // path module
